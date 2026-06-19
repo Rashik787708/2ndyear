@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
     int c;
-    int balance = 15000;
+    int balance = 150000;
     printf("Menu for the atm\n");
     printf("1.To withdraw your money\n");
     printf("2.To deposit your money\n");
